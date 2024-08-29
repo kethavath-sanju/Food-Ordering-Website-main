@@ -1,5 +1,5 @@
 # Food Ordering Website
-As the name says it all, it a simple full stack project which is used for ordering food from your favourite restaurant. It is a user friendly and responsive website. 
+Developed a fully responsive food delivery website using Node.js, offering a seamless online shopping experience across devices.
 
 ## Features :
 - The project has two interface i.e. an user interface and an admin interface.
